@@ -1,0 +1,61 @@
+.imgtag img{
+    width: 60px ;
+}
+.act{
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+    height: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+.navbar.active{
+    color: black;
+}
+.navbar{
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    position: relative;
+    top: 15px;
+}
+.page1{
+    background-color: rgb(19, 19, 180);
+    color: #fff;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    border-radius: 10px ;
+    
+}
+.page1:hover{
+    background-color: rgb(52, 212, 212);
+    color: black;
+}
+.tab1{
+    margin-top: 20px;
+    font-weight: 500;
+    background-color:rgb(19, 19, 180) ;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+.insideedge{
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+.btn{
+    margin-top: 3px;
+}
+.btn:hover{
+    color: black;
+    background-color: rgb(52, 212, 212);
+}
+.navbar{
+    font-weight: 500;
+    border-radius: 10px;
+}
+.tab3{
+    outline: 2px solid rgb(19, 19, 180);
+    border-radius: 20px;
+    font-weight: 600;
+
+}
